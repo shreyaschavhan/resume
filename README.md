@@ -4,7 +4,7 @@
 </div>
 
 <div align="center"> 
-  <h6> <a href="mailto:chavhanshreyas@gmail.com"> <b>chavhanshreyas@gamil.com</b></a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="linkedin.com/in/shreyaschavhan">LinkedIn</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="github.com/shreyaschavhan">GitHub</a></h6>
+  <h6> <a href="mailto:chavhanshreyas@gmail.com"> <b>chavhanshreyas@gmail.com</b></a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="linkedin.com/in/shreyaschavhan">LinkedIn</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="github.com/shreyaschavhan">GitHub</a></h6>
 </div>
 
 ## ⁍ 𝐄𝐝𝐮𝐜𝐚𝐭𝐢𝐨𝐧:
@@ -64,7 +64,7 @@ Bachelor of Engineering in Computer Engineering | 2019 - 2023 | International In
 
 * **[Rock Paper Scissors Game](https://github.com/shreyaschavhan/Rock-Paper-Scissors-Game)**
 > * Oct 2020
-> * Rock paper scissors is a hand game usually played between two people, in which each player simultaneously forms one of three shapes with an outstretched hand. These shapes are "rock", "paper", and "scissors". This C++ Program [Mini Project] is aimed at automating one of the player called as Computerized Player and the taking rock, paper or scissor as an input from the used.
+> * Rock paper scissors is a hand game usually played between two people, in which each player simultaneously forms one of three shapes with an outstretched hand. These shapes are "rock", "paper", and "scissors". This C++ Program [Mini Project] is aimed at automating one of the player called as Computerized Player and then taking rock, paper or scissor as an input from the used.
 
 ---
 
@@ -77,3 +77,5 @@ Bachelor of Engineering in Computer Engineering | 2019 - 2023 | International In
 > * Markdown
 > * Python
 
+---
+> Hire Me
