@@ -45,6 +45,7 @@ Bachelor of Engineering in Computer Engineering | 2019 - 2023 | International In
 
 * **[Hostel Management System](https://github.com/shreyaschavhan/Hostel-Management-System)**
 > * Nov 2020 – Dec 2020 
+> * Optimized - May 2021
 > * Objective:
 >   * The Objective of this mini project was to implement an electronic hostel management system that will streamline registration process, reduce administrative tasks and paper work so as to improve the registration cycle process flow. 
 > * Features:
